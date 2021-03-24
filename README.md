@@ -1,1 +1,1 @@
-Gained expirence in using the LInked Queue DaTa strutucre in Java.
+Gained expirence in using the LInked Queue Data strutucre in Java.
